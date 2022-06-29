@@ -1,0 +1,2 @@
+#!/bin/bash
+pase -- | cut -f1
